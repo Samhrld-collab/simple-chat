@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Samhrld-collab/simple-chat/static/css/main.8a361fcb.css",
+    "main.js": "/Samhrld-collab/simple-chat/static/js/main.aafd3393.js",
+    "static/js/453.5ae3f35b.chunk.js": "/Samhrld-collab/simple-chat/static/js/453.5ae3f35b.chunk.js",
+    "index.html": "/Samhrld-collab/simple-chat/index.html",
+    "main.8a361fcb.css.map": "/Samhrld-collab/simple-chat/static/css/main.8a361fcb.css.map",
+    "main.aafd3393.js.map": "/Samhrld-collab/simple-chat/static/js/main.aafd3393.js.map",
+    "453.5ae3f35b.chunk.js.map": "/Samhrld-collab/simple-chat/static/js/453.5ae3f35b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a361fcb.css",
+    "static/js/main.aafd3393.js"
+  ]
+}
